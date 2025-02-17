@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Alex Simoes 👋
 
-<!--
-**Alexmsimoes95/Alexmsimoes95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 **Software Developer** with a passion for creating automated solutions.
+- 🌱 **Continuous Learner** always exploring new technologies and methodologies to stay ahead in the tech industry.
+- 🎓 **Education:** High School graduated in Multimedia Technician.
+- 📫 **How to reach me:** alex.m.simoes@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python, C#, Ansible, Powershell, Shell Script
+- **Tools:** Git, Docker, Jenkins, AWX
+- **Databases:** MySQL, PostgreSQL, Oracle
+- **Cloud:** Azure, Google Cloud Platform
+
+## Projects - WIP
+
+- **Project 1:** [Project Name](link)
+  - Description: Brief description of the project and its purpose.
+- **Project 2:** [Project Name](link)
+  - Description: Brief description of the project and its purpose.
+
+## GitHub Stats
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexmsimoes95&show_icons=true&theme=radical)
