@@ -16,8 +16,8 @@
 
 ## Projects - WIP
 
-- **Project 1:** [Project Name](link)
-  - Description: Brief description of the project and its purpose.
+- **Project 1:** [Powershell-Backupper](https://github.com/Alexmsimoes95/Powershell-Backupper)
+  - Description: A little project developed to help to make a backup of things easylly and quick only using windows default shell.
 - **Project 2:** [Project Name](link)
   - Description: Brief description of the project and its purpose.
 
