@@ -18,8 +18,8 @@
 
 - **Project 1:** [Powershell-Backupper](https://github.com/Alexmsimoes95/Powershell-Backupper)
   - Description: A little project developed to help to make a backup of things easylly and quick only using windows default shell.
-- **Project 2:** [Project Name](link)
-  - Description: Brief description of the project and its purpose.
+- **Project 2:** [Euromillions Generator](https://github.com/Alexmsimoes95/Euromillions-Generator)
+  - Description: A project developed when i'm intruducing to C# development. An .exe application that will generate a random 5 number and 2 stars for playing in euromillions european game.
 
 ## GitHub Stats
 
