@@ -14,13 +14,14 @@
 - **Databases:** MySQL, PostgreSQL, Oracle
 - **Cloud:** Azure, Google Cloud Platform
 
-## Projects - WIP
+## Projects
 
 - **Project 1:** [Powershell-Backupper](https://github.com/Alexmsimoes95/Powershell-Backupper)
   - **Description:** A little project developed to help to make a backup of things easylly and quick only using windows default shell.
 - **Project 2:** [Euromillions Generator](https://github.com/Alexmsimoes95/Euromillions-Generator)
   - **Description:** A project developed when i'm intruducing to C# development. An .exe application that will generate a random 5 number and 2 stars for playing in euromillions european game.
+- **Project 3:** [Jira Automation](https://github.com/Alexmsimoes95/jira-automation)
+  - **Description:** Project developed on-job to automate using ansible creation, edition and closing of jira tasks/issues.
 
 ## GitHub Stats
-
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexmsimoes95&show_icons=true&theme=radical)
